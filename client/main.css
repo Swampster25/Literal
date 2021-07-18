@@ -1,0 +1,34 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.placeHolder{
+	margin-bottom: 10px;
+	width: 350px;
+	height: 250px;
+}
+
+.brath{
+	width: 338px;
+	height: 375px;
+} 
+
+.bincolor{
+	color: red;
+	font-size :2em;
+}
+
+.goodcolor{
+	color: blue;
+	font-size :2em;
+}
+
+
+.darkmode {
+  background-color: black;
+  
+}
+.cardpage{
+	height: 550px;
+}
